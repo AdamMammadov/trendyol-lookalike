@@ -1,0 +1,162 @@
+ [
+  {
+    "id": 1,
+    "name": "Qara Ayaqqabı",
+    "category": "Ayaqqabı",
+    "color": "Qara",
+    "price": 20,
+    "image": "https://cdn.suitdirect.co.uk/upload/siteimages/large/wrg14201_290_a.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ağ Ayaqqabı",
+    "category": "Ayaqqabı",
+    "color": "Ağ",
+    "price": 30,
+    "image": "https://i.etsystatic.com/38377029/r/il/6a9d72/5975306566/il_570xN.5975306566_m2ea.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mavi Cins Şalvar",
+    "category": "Şalvar",
+    "color": "Mavi",
+    "price": 60,
+    "image": "https://cdn2.emporium.az/i/p/500/163541-p1euqkh7hp1gm213edba5e9p1vnv8.JPG"
+  },
+  {
+    "id": 4,
+    "name": "Qırmızı T-shirt",
+    "category": "Geyim",
+    "color": "Qırmızı",
+    "price": 40,
+    "image": "https://safeseason.az/uploads/2025/04/h13161-002-492297518-1719235596-jpg-1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Ağ T-shirt",
+    "category": "Geyim",
+    "color": "Ağ",
+    "price": 35,
+    "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/K84069s3.jpg?im=Resize,width=750"
+  },
+  {
+    "id": 6,
+    "name": "Qara Şalvar",
+    "category": "Şalvar",
+    "color": "Qara",
+    "price": 57,
+    "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/843409s.jpg?im=Resize,width=750"
+  },
+  {
+    "id": 7,
+    "name": "Mavi Ayaqqabı",
+    "category": "Ayaqqabı",
+    "color": "Mavi",
+    "price": 25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7be-HQLP3fb3KqHL_3QI2U0_elzIs5XabNA&s"
+  },
+  {
+    "id": 8,
+    "name": "Qara Çanta",
+    "category": "Çanta",
+    "color": "Qara",
+    "price": 110,
+    "image": "https://beistravel.com/cdn/shop/files/Beis_Backpack_Black_1556_c917cb54-e2a9-4582-a2c2-db84caad86ad.jpg?v=1719290444&width=1946"
+  },
+  {
+    "id": 9,
+    "name": "Ağ Çanta",
+    "category": "Çanta",
+    "color": "Ağ",
+    "price": 50,
+    "image": "https://www.samsonite.co.uk/dw/image/v2/AATF_PRD/on/demandware.static/-/Sites-samsonite-product-catalog/default/dw63340ae3/images/salsify/yj9bmbmy6iwqo9tinjia_s--UOg8xJq0--_fl_clip_pg_1_e_trim_c_fit_w_2000_h_3000_u_tcrttuyt8xafi2acibgb_fl_layer_apply_e_make_transparent.png?sw=600&sh=900"
+  },
+  {
+    "id": 10,
+    "name": "Qırmızı Don",
+    "category": "Geyim",
+    "color": "Qırmızı",
+    "price": 60,
+    "image": "https://m.media-amazon.com/images/I/61OX7Um06WL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Yaşıl T-shirt",
+    "category": "Geyim",
+    "color": "Yaşıl",
+    "price": 45,
+    "image": "https://i5.walmartimages.com/asr/bbf97f22-1e0c-4611-bdd2-097aae371842_1.ec4fff667532fe9458cb1a350ee5aed5.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Boz Ayaqqabı",
+    "category": "Ayaqqabı",
+    "color": "Boz",
+    "price": 50,
+    "image": "https://d1zyv7v12t3541.cloudfront.net/attached_assets/assets/000/029/887/original/d062a0b20e1971de417ed50f4e515c33.jpg?1536959373"
+  },
+  {
+    "id": 13,
+    "name": "Mavi Çanta",
+    "category": "Çanta",
+    "color": "Mavi",
+    "price": 40,
+    "image": "https://m.media-amazon.com/images/I/71xdTbcsr+L._UY1000_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ağ Don",
+    "category": "Geyim",
+    "color": "Ağ",
+    "price": 40,
+    "image": "https://littleboxindia.com/cdn/shop/files/Solid_High_Waisted_Ruched_Ruffle_Mesh_Short_Skirt_In_White.jpg?v=1742287956"
+  },
+  {
+    "id": 15,
+    "name": "Qara Kəmər",
+    "category": "Aksesuar",
+    "color": "Qara",
+    "price": 60,
+    "image": "https://azbelt.com/cdn/shop/products/BlackClassicSB_1200x.jpg?v=1614274106"
+  },
+  {
+    "id": 16,
+    "name": "Qəhvəyi Ayaqqabı",
+    "category": "Ayaqqabı",
+    "color": "Qəhvəyi",
+    "price": 35,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Pb563jXbfblZHwYTZs-995YQFAePauqKgg&s"
+  },
+  {
+    "id": 17,
+    "name": "Qırmızı Çanta",
+    "category": "Çanta",
+    "color": "Qırmızı",
+    "price": 55,
+    "image": "https://m.media-amazon.com/images/I/71xz6OKGRIL._UY1000_.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Yaşıl Don",
+    "category": "Geyim",
+    "color": "Yaşıl",
+    "price": 90,
+    "image": "https://static.molo.com/molo-style/-girl-skirts-bellis-sporting-green-/2w24d106_8979_b.jpg?width=1000&height=1200&trim.threshold=90&bgcolor=white"
+  },
+  {
+    "id": 19,
+    "name": "Boz Şalvar",
+    "category": "Şalvar",
+    "color": "Boz",
+    "price": 95,
+    "image": "https://cdn.shoplightspeed.com/shops/640842/files/27077811/1652x2313x2/boys-grey-flat-front-pants.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Qəhvəyi Çanta",
+    "category": "Çanta",
+    "color": "Qəhvəyi",
+    "price": 45,
+    "image": "https://eikenshop.com/cdn/shop/products/Leather-Backpack-Brown-01_1080x.jpg?v=1658737218"
+  }
+]

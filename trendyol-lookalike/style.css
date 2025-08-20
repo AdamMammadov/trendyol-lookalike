@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #7e67d4;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  flex: 1;
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.product {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.product img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border: none;
+  background: #3498db;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2980b9;
+}
+
+.delete-btn {
+  background: #e74c3c;
+}
+
+.delete-btn:hover {
+  background: #c0392b;
+}
+
+/* Bildiriş (toast) */
+#toast {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: #27ae60;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  padding: 12px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 16px;
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 0.5s, visibility 0.5s;
+}
+
+#toast.show {
+  visibility: visible;
+  opacity: 1;
+}

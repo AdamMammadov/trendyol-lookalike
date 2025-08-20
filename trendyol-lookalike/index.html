@@ -1,0 +1,46 @@
+ <!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Məhsullar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Məhsullar</h1>
+    <div class="cart" onclick="window.location.href='basket.html'">
+      🛒 <span id="cartCount">0</span>
+    </div>
+  </header>
+
+  <div class="filters">
+    <select id="categoryFilter">
+      <option value="">Kateqoriya seçin</option>
+      <option value="Ayaqqabı">Ayaqqabı</option>
+      <option value="Şalvar">Şalvar</option>
+      <option value="Geyim">Geyim</option>
+      <option value="Çanta">Çanta</option>
+      <option value="Aksesuar">Aksesuar</option>
+    </select>
+
+    <select id="colorFilter">
+      <option value="">Rəng seçin</option>
+      <option value="Qara">Qara</option>
+      <option value="Ağ">Ağ</option>
+      <option value="Mavi">Mavi</option>
+      <option value="Qırmızı">Qırmızı</option>
+      <option value="Yaşıl">Yaşıl</option>
+      <option value="Boz">Boz</option>
+      <option value="Qəhvəyi">Qəhvəyi</option>
+    </select>
+  </div>
+
+  <div id="products" class="product-list"></div>
+
+  <!-- Bildiriş -->
+  <div id="toast"></div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
